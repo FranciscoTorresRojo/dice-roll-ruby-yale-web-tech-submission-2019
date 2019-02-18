@@ -5,3 +5,6 @@
 def roll
   1 + rand(6)
 end
+5.times do
+  roll
+end 
